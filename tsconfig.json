@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "metro.config.js", "tailwind.config.js", "constants/icons.ts"  ]
 }
